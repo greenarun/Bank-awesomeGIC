@@ -7,6 +7,10 @@ Author: Arunkumar Packirisamy
 
 In the project directory, you can run:
 
+### `npm install`
+
+To install the dependencies from package.json
+
 ### `npm run server`
 
 Runs the JSON server in port **3001**.\
