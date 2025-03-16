@@ -9,13 +9,13 @@ In the project directory, you can run:
 
 ### `npm run server`
 
-Runs the JSON server in the development mode.\
+Runs the JSON server in port **3001**.\
 Open [http://localhost:3001/users](http://localhost:3001/users) to view it in your browser.
 
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in port **3000**.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
