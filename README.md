@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Author: Arunkumar Packirisamy
 
 ## Available Scripts
 
@@ -8,7 +9,7 @@ In the project directory, you can run:
 
 ### `npm run server`
 
-Runs the server in the development mode.\
+Runs the JSON server in the development mode.\
 Open [http://localhost:3001/users](http://localhost:3001/users) to view it in your browser.
 
 
@@ -27,9 +28,32 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### UI Screenshots
 
+<img width="1728" alt="Screenshot 2025-03-16 at 7 27 10 AM" src="https://github.com/user-attachments/assets/7c4a48ec-4619-48be-bf78-341dd1b1b8e5" />
+<img width="1728" alt="Screenshot 2025-03-16 at 7 27 40 AM" src="https://github.com/user-attachments/assets/149ea7e5-4094-442c-9b2b-f367d389b028" />
+<img width="1728" alt="Screenshot 2025-03-16 at 7 27 57 AM" src="https://github.com/user-attachments/assets/2256f62e-88ce-4291-8eec-bce8d67c4d82" />
+<img width="1728" alt="Screenshot 2025-03-16 at 7 28 23 AM" src="https://github.com/user-attachments/assets/f451f4cb-c99b-44f4-ab7a-1a5f6900819f" />
+<img width="1728" alt="Screenshot 2025-03-16 at 7 36 37 AM" src="https://github.com/user-attachments/assets/1be4d23a-5c63-4258-9412-27b4820ea4e9" />
 
 ### Server Screenshots
-  
+<img width="1728" alt="Screenshot 2025-03-16 at 7 29 59 AM" src="https://github.com/user-attachments/assets/e3750e4c-42bf-41fa-967a-5f402e090cb6" />
+<img width="1728" alt="Screenshot 2025-03-16 at 7 41 38 AM" src="https://github.com/user-attachments/assets/228c2d7f-7888-4faf-bde4-80dc146c56b0" />
+
+ ### Package Dependencies
+
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.4.5",
+    "@mui/material": "^6.4.5",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.7.9",
+    "json-server": "^1.0.0-beta.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^6.0.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+    
 ### Task Description
 
 # Bank Account
